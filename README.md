@@ -16,12 +16,12 @@ main purpose of this python script is to check currently connected RSSI signal q
   
 Clone the repo to your local directory:
 
-```
+```HTTP
 https://github.com/Alkaris/RSSI-Python.git
 ```
 
 run the script:
-```
+```PYTHON
 python ./rssi_quality.py
 ```
 give the script `+x` permission and you can just run `./rssi_quality.py` without extra commands.
