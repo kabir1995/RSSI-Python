@@ -14,4 +14,16 @@ main purpose of this python script is to check currently connected RSSI signal q
 
   [1]: https://i.stack.imgur.com/Di8wd.png
   
+Clone the repo to your local directory:
+
+```
+https://github.com/Alkaris/RSSI-Python.git
+```
+
+run the script:
+```
+python ./rssi_quality.py
+```
+give the script `+x` permission and you can just run `./rssi_quality.py` without extra commands.
+  
 sounds easy right? hahaha I wish... my code will be bit of a mess, but take gander at it yourself and you decide. currently works as is in Python 2.3, need to do more work with it so it can work with Python 3.x, and implement a little Ncurses with it, maybe not as something like my other side test project [[here]](https://github.com/Alkaris/Roofox.py). I need to figure out stuff with the network interface card names becuase they're different from system to system, and I want to make it work across systems without needing to modify the script to match the interface names.
