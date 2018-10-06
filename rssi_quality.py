@@ -12,6 +12,7 @@
 # '≠','=' = "\033[1;33m" # yellow bold | ≠ / = (NOT EQUAL TO and EQUAL signs)
 # 
 #
+# not too sure how this can all be implemented to work for both Python 3.x and 2.x
 # below code is for Python 2.x
 #
 
